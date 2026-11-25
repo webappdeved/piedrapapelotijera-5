@@ -1,4 +1,4 @@
-🎮 Piedra, Papel o Tijera — Actividad 7
+🎮 Piedra, Papel o Tijera — Actividad 7 
 Materia: Laboratorio de Programación (LPR) — 5.º año
 Institución: E.E.S.T. N.º 1 “Eduardo Ader” — Vicente López
 Actividad: Mini juego Piedra, Papel o Tijera con persistencia de datos **Estudiantes: Federico Mattia, Ulises Ferrari, Lucas delPino, Maximo Orue Grupo: 5°3 Año: 2026
